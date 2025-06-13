@@ -28,7 +28,7 @@ Deployed a personalized landing page on AWS EC2 with Ubuntu and Nginx. The proje
 - Pushed code to GitHub: https://github.com/benazirr-1/AltSchool-Exam
 
 ## Evidence
-![Rendering](rendering.png)
+![Rendering](Rendering.png)
 
 
 
